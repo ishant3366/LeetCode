@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ishant3366/LeetCode/tree/master/0070-climbing-stairs) |
 | [1048-clumsy-factorial](https://github.com/ishant3366/LeetCode/tree/master/1048-clumsy-factorial) |
+| [1448-maximum-69-number](https://github.com/ishant3366/LeetCode/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ishant3366/LeetCode/tree/master/0217-contains-duplicate) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/ishant3366/LeetCode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
