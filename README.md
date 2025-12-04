@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ishant3366/LeetCode/tree/master/0011-container-with-most-water) |
+| [0073-set-matrix-zeroes](https://github.com/ishant3366/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/ishant3366/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ishant3366/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/ishant3366/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ishant3366/LeetCode/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/ishant3366/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
